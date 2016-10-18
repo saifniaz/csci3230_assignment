@@ -1,0 +1,115 @@
+body > header{
+    height: 260px;
+    background: #000070;
+}
+
+#logo{
+    height: 200px;
+    padding: 10px;
+}
+
+#logo img{
+    height: 200px;
+    width: 180px;
+    padding: 10px;
+    float: left;
+}
+
+#logo p{
+    margin-top: 100px;
+    margin-left: 180px;
+    color: white;
+    font-size: 24pt;
+    font-family: 'Tangerine', cursive;
+    font-style: oblique;
+    
+}
+
+nav{
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;    
+}
+
+nav ul li a{
+    color: lightblue;
+}
+
+nav ul li a:hover{
+     background-color: #C5CAE9;
+    border-radius: 1px;
+}
+
+#overview{
+    margin: 10px;
+}
+
+#overview .header{
+    padding: 10px;
+    padding-top: 1px;
+    height: 30px;
+    background: #000070;
+}
+
+#overview .header a{
+    color: white;
+    font-size: 15pt;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#overview .body{
+    padding: 10px;
+    border: 1px solid #000070;
+    background: #f0f0ff
+}
+
+#rules{
+    margin: 10px;
+}
+
+#rules .header{
+    padding: 10px;
+    padding-top: 1px;
+    height: 30px;
+    background: #000070;
+}
+
+#rules .header a{
+    color: white;
+    font-size: 15pt;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#rules .body{
+    padding: 10px;
+    border: 1px solid #000070;
+    background: #f0f0ff;
+}
+
+#history{
+    margin: 10px;
+}
+
+#history .header{
+    padding: 10px;
+    padding-top: 1px;
+    height: 30px;
+    background: #000070;
+}
+
+#history .header a{
+    color: white;
+    font-size: 15pt;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#history .body{
+    padding: 10px;
+    border: 1px solid #000070;
+    background: #f0f0ff;
+}
